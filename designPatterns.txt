@@ -1,6 +1,0 @@
-
-
-In this design pattern course, we will be looking deep into design patterns. 
-Along with this we will also be creating folder and saving files and notes for individual design patterns 
-We will go through all the 80 videos capturing design pattern details 
-
